@@ -141,7 +141,7 @@ em {
     position: absolute;
     width: 44.64%;
     height: 67.74%;
-    background-image: url(images/miyamoto.jpg);
+    background-image: url(../images/miyamoto.jpg);
     background-size: cover;
     margin: 0px;
     left: 37%;
@@ -332,7 +332,7 @@ em {
 }
 
 #tribute-list li {
-    background: url("images/box-bullet-32.png") no-repeat left top;
+    background: url(../images/box-bullet-32.png) no-repeat left top;
     padding-left: 45px;
     margin: 10px 0;
     font-size: 1.15rem;
